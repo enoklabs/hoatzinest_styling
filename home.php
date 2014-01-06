@@ -4,7 +4,7 @@
         <div class="large-12 columns text-center">
             <h2>Let's Build Something!</h2>
             <h5>Post your Idea, and build a Team</h5>
-            <a href="#" id="cta-btn" class="button primary radius wide bold">+ Start Your Idea</a>
+            <a href="build.php" id="cta-btn" class="button primary radius wide bold">+ Start Your Idea</a>
         </div>
     </div>
 </section>
@@ -95,12 +95,12 @@
             <!-- Project #1-->
             <div class="row collapse">
                 <div class="large-3 column">
-                    <img class="left" src="assets/img/proj1.jpg" alt="Project img">
+                    <a href="project.php"><img class="left" src="assets/img/proj1.jpg" alt="Project img"></a>
                 </div>
 
                 <div class="large-9 columns collapse">
 
-                    <h5>Pelicans - Event Planning Application</h5>
+                    <a href="project.php"><h5>Pelicans - Event Planning Application</h5></a>
                     <p class="left"><strong>Team Needs:</strong></p>
                     <ul class="inline-list">
                         <li><p>Developers, </p></li>
@@ -116,12 +116,12 @@
             <!-- Project #2-->
             <div class="row collapse">
                 <div class="large-3 column">
-                    <img class="left" src="assets/img/proj2.jpg" alt="Project img">
+                    <a href="project.php"><img class="left" src="assets/img/proj2.jpg" alt="Project img"></a>
                 </div>
 
                 <div class="large-9 columns collapse">
 
-                    <h5>Dada5 - HTML5 Javascript game</h5>
+                    <a href="project.php"><h5>Dada5 - HTML5 Javascript game</h5></a>
                     <p class="left"><strong>Team Needs:</strong></p>
                     <ul class="inline-list">
                         <li><p>Developers, </p></li>
@@ -138,12 +138,12 @@
             <!-- Project #3-->
             <div class="row collapse">
                 <div class="large-3 column">
-                    <img class="left" src="assets/img/proj3.jpg" alt="Project img">
+                    <a href="project.php"><img class="left" src="assets/img/proj3.jpg" alt="Project img"></a>
                 </div>
 
                 <div class="large-9 columns collapse">
 
-                    <h5>Hash Taggers - Android hashtag app</h5>
+                    <a href="project.php"><h5>Hash Taggers - Android hashtag app</h5></a>
                     <p class="left"><strong>Team Needs:</strong></p>
                     <ul class="inline-list">
                         <li><p>Android Developers, </p></li>
@@ -237,8 +237,8 @@
 
         <br/>
 
-        <!-- New Members panel-->
-        <div class="large-4 columns">
+        <!-- Featured article panel-->
+        <div class="large-4 columns right">
             <div class="row">
                 <div class="large-2 columns"></div>
                 <div class="large-8 column large-centered panelGray">
