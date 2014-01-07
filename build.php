@@ -6,8 +6,10 @@
 <section>
     <div class="row">
         <div class="large-12 columns">
-            <h2>Create a Project</h2>
+            <br/><br/>
+            <h3>Create a Project</h3>
             <p>* Denotes Required Field</p>
+            <br/><br/>
         </div>
     </div>
 

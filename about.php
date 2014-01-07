@@ -4,10 +4,12 @@
 
 
 <!-- About Page -->
-<section class="cta3">
+<section>
     <div class="row">
         <div class="large-12 columns">
-            <h2>Open Projects - Join one!</h2>
+            <br/><br/>
+            <h3>Open Projects - Join one!</h3>
+            <br/><br/>
 
             <div class="row">
                 <div class="large-6 columns">

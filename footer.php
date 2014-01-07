@@ -16,8 +16,8 @@
         <div class="large-2 columns">
             <ul>
                 <span>About</span>
-                <li><a href="#">History</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="about.php">History</a></li>
+                <li><a href="contact.php">Contact</a></li>
                 <li><a href="#">Terms of use</a></li>
             </ul>
         </div>
@@ -25,13 +25,13 @@
             <ul>
                 <span>Community</span>
                 <li><a href="#">Members</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Showcase</a></li>
+                <li><a href="projects.php">Projects</a></li>
+                <li><a href="showcase.php">Showcase</a></li>
                 <li><a href="#">Resources</a></li>
             </ul>
         </div>
         <div class="large-4 columns">
-            <a href="build.php" class="button primary right radius wide ">Start Idea</a>
+            <a href="build.php" class="button primary right radius wide "><h5>Start Idea</h5></a>
         </div>
 
     </div>

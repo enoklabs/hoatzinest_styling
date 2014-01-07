@@ -16,7 +16,7 @@
     <div class="row">
         <div class="large-8 large-centered columns">
             <h1 class="text-center">
-                <img class="video" src="assets/img/videoScreen.jpg" alt="Get to know HoatziNest">
+                <img class="video" src="assets/img/videoplayer.jpg" alt="Get to know HoatziNest">
             </h1>
 
         </div>
@@ -25,7 +25,9 @@
     <!-- Message -->
     <div class="row">
         <div class="large-12 columns text-center">
+            <br/><br/>
             <h3>Crafting ideas and finding the right team to make it happen has never been easier</h3>
+            <br/><br/>
         </div>
     </div>
 
@@ -83,13 +85,19 @@
             </div>
         </div>
     </div>
+
+    <br/><br/>
 </section>
+
+
 
 <!-- Featured Projects -->
 <section class="cta3">
     <div class="row collapse">
         <div class="large-8 columns collapse">
+            <br/><br/>
             <h4>Featured Projects</h4>
+            <br/><br/>
 
 
             <!-- Project #1-->
@@ -258,10 +266,13 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
 
                     <a href="#"><p class="text-right">12 comments</p></a>
+                    <br/>
+
                 </div>
                 <div class="large-2 columns"></div>
             </div>
         </div>
+        <br/><br/>
 
     </div>
 </section>

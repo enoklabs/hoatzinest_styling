@@ -4,11 +4,13 @@
 
 
 <!-- Featured Projects -->
-<section class="cta3">
+<section>
     <div class="row">
         <div class="large-12 columns">
-            <h2>HoatziNest Hall of Fame!</h2>
+            <br/><br/>
+            <h3>HoatziNest Hall of Fame!</h3>
             <p>The most successful projects that got started here in the Hoatzin's Nest</p>
+            <br/><br/>
 
             <!-- Project Images -->
             <div class="row ">
@@ -23,7 +25,7 @@
                     <div class="row">
                         <div class="large-12 columns large-centered panelWhite">
                             <a href="project.php"><img src="assets/img/hallfame1.jpg" alt="hall of fame project"/></a>
-                            <p>Lorem ipsum dolor shit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
                         </div>
                     </div>
                 </div>
@@ -38,7 +40,7 @@
                     <div class="row">
                         <div class="large-12 columns large-centered panelWhite">
                             <a href="project.php"><img src="assets/img/hallfame2.jpg" alt="hall of fame project"/></a>
-                            <p>Lorem ipsum dolor shit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
                         </div>
                     </div>
                 </div>
@@ -53,7 +55,7 @@
                     <div class="row">
                         <div class="large-12 columns large-centered panelWhite">
                             <a href="project.php"><img src="assets/img/hallfame3.jpg" alt="hall of fame project"/></a>
-                            <p>Lorem ipsum dolor shit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
                         </div>
                     </div>
                 </div>
@@ -68,7 +70,7 @@
                     <div class="row">
                         <div class="large-12 columns large-centered panelWhite">
                             <a href="project.php"><img src="assets/img/hallfame4.jpg" alt="hall of fame project"/></a>
-                            <p>Lorem ipsum dolor shit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
                         </div>
                     </div>
                 </div>
@@ -83,7 +85,7 @@
                     <div class="row">
                         <div class="large-12 columns large-centered panelWhite">
                             <a href="project.php"><img src="assets/img/hallfame5.jpg" alt="hall of fame project"/></a>
-                            <p>Lorem ipsum dolor shit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
                         </div>
                     </div>
                 </div>
@@ -98,7 +100,7 @@
                     <div class="row">
                         <div class="large-12 columns large-centered panelWhite">
                             <a href="project.php"><img src="assets/img/hallfame6.jpg" alt="hall of fame project"/></a>
-                            <p>Lorem ipsum dolor shit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
                         </div>
                     </div>
                 </div>

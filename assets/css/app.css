@@ -7,7 +7,12 @@ h1, h2, h3, h4, h5, h6{
 body p, body a{
 	font-size: 14px;
 }
-
+a{
+    color: #3498db;
+}
+a:hover, a:active{
+    color: #3498db;
+}
 li{
 	list-style: none;
 }
@@ -125,6 +130,7 @@ header{
 .cta{
     background: url("../img/ctaBg.jpg") no-repeat scroll center 0 #93A1E2;
     color: #ffffff;
+    padding-bottom: 130px;
 }
 .cta h2,
 .cta h4,
@@ -136,7 +142,7 @@ header{
     margin-bottom: 60px;
 }
 .cta h2{
-    margin-top: 100px;
+    margin-top: 80px;
 }
 .cta h5{
     margin-top: 15px;
@@ -144,7 +150,14 @@ header{
 .cta3{
     background: #EEEFF1;
 }
-
+.video{
+    border: 15px solid #FFFFFF;
+    border-radius: 10px;
+    margin-top: -160px;
+}
+.radius{
+    border-radius: 6px !important;
+}
 /********** Build **********/
 .number{
     border: 4px solid #BFC6CA;
@@ -165,11 +178,11 @@ header{
     height: 130px;
 }
 .textbox textarea:focus,
-.large-8.columns > input:focus {
+.columns > input:focus {
     background: #ffffff;
     border-color: #3598DB;
 }
-.large-8.columns > input {
+.columns > input {
     border: 2px solid #D2D6D9;
     border-radius: 5px;
     box-shadow: none;
@@ -197,7 +210,9 @@ footer span{
 footer > span{
 	padding-bottom: 35px;
 }
-
+.button > h5{
+    color: white;
+}
 .copyright{
 	background: #10151F;
 	color: #313d50;
@@ -209,14 +224,20 @@ footer > span{
 	font-size: 12px;
 }
 .twitter, .facebook, .mail{
-	background: url("../img/social.png") no-repeat scroll center 0 rgba(0, 0, 0, 0);
+    background: url("../img/social.png") no-repeat scroll center 0 rgba(0, 0, 0, 0);
     display: block;
     height: 50px;
     width: 50px;
 }
-.facebook{
+.twitter2, .facebook2, .mail2{
+    background: url("../img/socialdark.png") no-repeat scroll center 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 50px;
+    width: 50px;
+}
+.facebook, .facebook2{
 	background-position: center -200px;
 }
-.mail{
+.mail, .mail2{
 	background-position: center -400px;
 }

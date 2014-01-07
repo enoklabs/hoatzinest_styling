@@ -4,10 +4,12 @@
 
 
 <!-- Featured Projects -->
-<section class="cta3">
+<section>
     <div class="row collapse">
         <div class="large-8 columns">
-            <h4>Pelicans - Event Planning Application</h4>
+            <br/><br/>
+            <h3>Pelicans - Event Planning Application</h3>
+            <br/><br/>
 
             <!-- Project Images -->
             <div class="row collapse">
@@ -44,13 +46,13 @@
         <!-- Team Members panel-->
         <div class="large-4 columns">
             <div class="row">
-                <br/><br/>
+                <br/><br/><br/><br/><br/><br/>
                 <div class="large-8 column large-centered">
-                    <a href="#" class="button primary radius extrawide ">Start Idea</a>
+                    <a href="#" class="button primary radius extrawide "><h5>Join this Team</h5></a>
                 </div>
                 <br/>
                 <div class="large-8 column large-centered">
-                    <a href="#comments" class="button secondary radius extrawide ">Discuss Project</a>
+                    <a href="#comments" class="button secondary radius extrawide "><h5>Discuss Project</h5></a>
                 </div>
             </div>
 
