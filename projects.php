@@ -15,12 +15,12 @@
                 <div class="large-4 columns panel ">
                     <div class="row">
                         <div class="large-12 columns large-centered panelGray">
-                            <h6>Pelicans - Event Planning Application</h6>
+                            <a href="project.php"><h6>Pelicans - Event Planning Application</h6></a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="large-12 columns large-centered panelWhite">
-                            <img src="assets/img/pelicans.jpg" alt="article image"/>
+                            <a href="project.php"><img src="assets/img/pelicans.jpg" alt="article image"/></a>
                             <p>Lorem ipsum dolor shit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
                         </div>
                     </div>
