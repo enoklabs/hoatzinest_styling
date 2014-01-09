@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28e3325b-f8f6-4fb6-acb3-89b3723162db" name="Default" comment="Added Google Analitics code to footer.php">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="28e3325b-f8f6-4fb6-acb3-89b3723162db" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hoatzinest.iws" />
@@ -40,7 +37,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="17" selection-start="589" selection-end="589" vertical-scroll-proportion="0.13140312" vertical-offset="196" max-vertical-offset="1095">
+            <state line="17" column="17" selection-start="589" selection-end="589" vertical-scroll-proportion="-0.875" vertical-offset="647" max-vertical-offset="1095">
               <folding />
             </state>
           </provider>
@@ -52,6 +49,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -173,21 +173,21 @@
     <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="/etc/php/php5.5.3/bin" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="117" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="47" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="119" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="48" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="122" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="49" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="916" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="470" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="120" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="47" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="122" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="48" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="125" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="49" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="920" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="470" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -246,6 +246,11 @@
       <created>1387900016809</created>
       <updated>1387900016809</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Google Analitics code to footer.php">
+      <created>1389310479829</created>
+      <updated>1389310479829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -277,9 +282,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329698" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26486486" sideWeight="0.5003796" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5003796" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32931727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.49962035" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -523,7 +528,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="17" selection-start="589" selection-end="589" vertical-scroll-proportion="0.13140312" vertical-offset="196" max-vertical-offset="1095">
+        <state line="17" column="17" selection-start="589" selection-end="589" vertical-scroll-proportion="-0.875" vertical-offset="647" max-vertical-offset="1095">
           <folding />
         </state>
       </provider>
