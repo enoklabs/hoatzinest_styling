@@ -42,6 +42,12 @@
                         </div>
                     </div>
 
+                    <div class="row">
+                        <div class="large-10 columns">
+                            <a class="button radius secondary wide right" href="#">Send Message</a>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="large-4 columns">
 
