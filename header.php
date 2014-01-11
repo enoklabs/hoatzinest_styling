@@ -36,8 +36,8 @@
         <div class="row">
             <div class="large-12 columns">
                 <div class="top-button">
-                    <a class="button small borderShadow right rightRadius">Sign In</a>
-                    <a class="button small borderShadow right leftRadius">Sign Up</a>
+                    <a href="signin.php" class="button small borderShadow right rightRadius">Sign In</a>
+                    <a href="signup.php" class="button small borderShadow right leftRadius">Sign Up</a>
                 </div>
             </div>
         </div>
