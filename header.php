@@ -15,6 +15,7 @@
     <!-- ======== FONTS ======== -->
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,400italic,600italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600' rel='stylesheet' type='text/css'>
 
     <!-- ======== CSS FILES ======== -->
     <link rel="stylesheet" href="assets/css/foundation.css" />
