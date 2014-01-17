@@ -5,8 +5,8 @@
             <img src="assets/img/hoatzinest_logo.png" alt="HoatziNest Logo">
         </div>
 
-        <div class="large-4 columns">
-            <h6>Socialize with us!</h6>
+        <div class="large-4 columns social">
+            <p>Socialize with us!</p>
             <ul class="inline-list">
                 <li><a class="twitter" href="#"></a></li>
                 <li><a class="facebook" href="#"></a></li>

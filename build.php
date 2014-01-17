@@ -53,22 +53,22 @@
 
             <div class="row">
                 <div class="large-8 columns">
-                    <div class="row">
-                        <div class="large-4 columns panel panelLightGray">
+                    <div class="row checkboxes">
+                        <div class="large-4 columns">
                             <ul>
                                 <li><input id="developers" type="checkbox"/><label for="developers">Developers</label></li>
                                 <li><input id="Engineers" type="checkbox"/><label for="Engineers">Engineers</label></li>
                                 <li><input id="Managers" type="checkbox"/><label for="Managers">Project Managers</label></li>
                             </ul>
                         </div>
-                        <div class="large-4 columns panel panelGray">
+                        <div class="large-4 columns">
                             <ul>
                                 <li><input id="Designers" type="checkbox"/><label for="Designers">Designers</label></li>
                                 <li><input id="Directors" type="checkbox"/><label for="Directors">Art Directors</label></li>
                                 <li><input id="Artists" type="checkbox"/><label for="Artists">Artists</label></li>
                             </ul>
                         </div>
-                        <div class="large-4 columns panel panelDarkGray">
+                        <div class="large-4 columns">
                             <ul>
                                 <li><input id="Marketers" type="checkbox"/><label for="Marketers">Marketers</label></li>
                                 <li><input id="Animators" type="checkbox"/><label for="Animators">Video/Animators</label></li>
@@ -81,29 +81,29 @@
 
             <div class="row">
                 <div class="large-8 columns">
-                    <label for="creating">What are you creating?</label>
-                    <textarea id="creating"></textarea>
+                    <label for="project_what">What are you creating?</label>
+                    <input id="project_what" class="large-input" type="text" size="9999" name="project_what">
                 </div>
             </div>
 
             <div class="row">
                 <div class="large-8 columns">
-                    <label for="why">Why are you creating this?</label>
-                    <textarea id="why"></textarea>
+                    <label for="project_why">Why are you creating this?</label>
+                    <input id="project_why" class="large-input" type="text" name="project_why">
                 </div>
             </div>
 
             <div class="row">
                 <div class="large-8 columns">
-                    <label for="how">How can others help you?</label>
-                    <textarea id="how"></textarea>
+                    <label for="project_how">How can others help you?</label>
+                    <input id="project_how" class="large-input" type="text" name="project_how">
                 </div>
             </div>
 
             <div class="row">
                 <div class="large-8 columns">
-                    <label for="goals">What are the main goals you wish to accomplish with this project?</label>
-                    <textarea id="goals"></textarea>
+                    <label for="project_goals">What are the main goals you wish to accomplish with this project?</label>
+                    <input id="project_goals" class="large-input" type="text" name="project_goals">
                 </div>
                 <div class="large-4 columns">
                     <p>Example: Build an open source community</p>
